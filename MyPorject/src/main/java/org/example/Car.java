@@ -13,4 +13,5 @@ public abstract class Car {
         this.maxSpeed = maxSpeed;
         this.productionYear = productionYear;
     }
+    public abstract void drive();
 }
