@@ -10,5 +10,7 @@ public class BMW extends Car {
     @Override
     public void drive() {
         System.out.println("BMW is driving");
+        System.out.println("BMW is driving");
+        System.out.println("BMW is driving");
     }
 }
